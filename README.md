@@ -136,7 +136,7 @@ o	Obsługa wyszukiwania po nazwie hotelu lub atrakcji turystycznej.
 
 o	Opcja filtrowania wyników wyszukiwania na podstawie kategorii, ceny, ocen użytkowników itp.
 
-•	Wyświetlanie wyników wyszukiwania:
+**Wyświetlanie wyników wyszukiwania:**
 
 o	Prezentacja listy dostępnych hoteli, apartamentów lub innych obiektów noclegowych w wybranej lokalizacji.
 
@@ -188,7 +188,7 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
 4.	Kliknij przycisk "Szukaj".
    
 **Oczekiwany rezultat: **
-	Wyświetlenie wyników wyszukiwania zawierających hotele i obiekty noclegowe w wybranej lokalizacji.
+Wyświetlenie wyników wyszukiwania zawierających hotele i obiekty noclegowe w wybranej lokalizacji.
 
 **2.	Przypadek testowy: Filtrowanie wyników wyszukiwania**
 
@@ -200,7 +200,7 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
    
 **Oczekiwany rezultat: **
 
-	Wyświetlenie tylko tych wyników, które spełniają wybrane kryteria filtrów.
+Wyświetlenie tylko tych wyników, które spełniają wybrane kryteria filtrów.
 
 **4.	Przypadek testowy: Rezerwacja pokoju**
 
@@ -214,7 +214,7 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
    
 **Oczekiwany rezultat: **
 
-	Potwierdzenie rezerwacji z wyświetleniem szczegółów dotyczących daty pobytu, ceny, danych kontaktowych obiektu noclegowego itp.
+Potwierdzenie rezerwacji z wyświetleniem szczegółów dotyczących daty pobytu, ceny, danych kontaktowych obiektu noclegowego itp.
 
 **4.	Przypadek testowy: Zarządzanie rezerwacjami**
 
@@ -227,7 +227,7 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
    
 **Oczekiwany rezultat: **
 
-	Wyświetlanie dokładnych informacji dotyczących rezerwacji oraz możliwość modyfikacji lub anulowania rezerwacji (jeśli to możliwe).
+Wyświetlanie dokładnych informacji dotyczących rezerwacji oraz możliwość modyfikacji lub anulowania rezerwacji (jeśli to możliwe).
 
 **5.	Przypadek testowy: Oceny i opinie**
 
@@ -240,7 +240,7 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
    
 **Oczekiwany rezultat: **
 
-	Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświetlanie ocen i opinii innych użytkowników.
+Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświetlanie ocen i opinii innych użytkowników.
  
 •	    Priorytetyzacja: Określenie priorytetów dla poszczególnych funkcjonalności w kontekście testowania. Może to obejmować wysoki priorytet dla krytycznych funkcjonalności, które mają duże znaczenie dla systemu lub niski priorytet dla funkcjonalności mniej istotnych.
 
