@@ -207,11 +207,11 @@ Wyświetlenie tylko tych wyników, które spełniają wybrane kryteria filtrów.
 
 Kroki testowe:
 
-0.	Wykonaj wyszukiwanie dla określonej lokalizacji i daty pobytu.
-1.	Wybierz konkretny obiekt noclegowy z wyników wyszukiwania.
-2.	Wybierz preferowany rodzaj pokoju i liczbę gości.
-3.	Przejdź do procesu rezerwacji i wprowadź dane osobowe i płatności.
-4.	Potwierdź rezerwację.
+1. Wykonaj wyszukiwanie dla określonej lokalizacji i daty pobytu.
+2.	Wybierz konkretny obiekt noclegowy z wyników wyszukiwania.
+3.	Wybierz preferowany rodzaj pokoju i liczbę gości.
+4.	Przejdź do procesu rezerwacji i wprowadź dane osobowe i płatności.
+5.	Potwierdź rezerwację.
    
 Oczekiwany rezultat:
 
@@ -221,10 +221,10 @@ Potwierdzenie rezerwacji z wyświetleniem szczegółów dotyczących daty pobytu
 
 Kroki testowe:
 
-0.	Zaloguj się na swoje konto w wyszukiwarce booking.com.
-1.	Przejdź do sekcji zarządzania rezerwacjami.
-2.	Wybierz konkretną rezerwację do przeglądu lub modyfikacji.
-3.	Sprawdź, czy można przeglądać szczegóły rezerwacji, dokonać zmian (jeśli dozwolone) lub anulować rezerwację.
+1.	Zaloguj się na swoje konto w wyszukiwarce booking.com.
+2.	Przejdź do sekcji zarządzania rezerwacjami.
+3.	Wybierz konkretną rezerwację do przeglądu lub modyfikacji.
+4.	Sprawdź, czy można przeglądać szczegóły rezerwacji, dokonać zmian (jeśli dozwolone) lub anulować rezerwację.
    
 Oczekiwany rezultat:
 
@@ -234,10 +234,10 @@ Wyświetlanie dokładnych informacji dotyczących rezerwacji oraz możliwość m
 
 Kroki testowe:
 
-0.	Znajdź zarezerwowany obiekt noclegowy.
-1.	Sprawdź, czy można wystawić ocenę i opinię na temat tego obiektu.
-2.	Wystaw ocenę i opinię dla danego obiektu.
-3.	Sprawdź, czy oceny i opinie są wyświetlane w odpowiednich miejscach i czy można przeglądać oceny innych użytkowników.
+1.	Znajdź zarezerwowany obiekt noclegowy.
+2.	Sprawdź, czy można wystawić ocenę i opinię na temat tego obiektu.
+3.	Wystaw ocenę i opinię dla danego obiektu.
+4.	Sprawdź, czy oceny i opinie są wyświetlane w odpowiednich miejscach i czy można przeglądać oceny innych użytkowników.
    
 Oczekiwany rezultat:
 
