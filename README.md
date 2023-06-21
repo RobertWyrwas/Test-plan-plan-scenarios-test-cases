@@ -320,9 +320,13 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 **9. RAPORT Z TESTÓW**
 
 •	Lista zrealizowanych przypadków testowych wraz ze statusami
+
 •	Raport defektów
+
 •	Raport z testów zgodności
+
 •	Pomiary z testów wydajnościowych
+
 •	Inne raporty z testów
 
  
