@@ -253,6 +253,7 @@ Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświe
 •	System Windows 10 Home 64 bit
 
 •	Przeglądarki biorące udział w testach: 
+
 Firefox 114.0.1
 
 Edge 114.0.1823.51
