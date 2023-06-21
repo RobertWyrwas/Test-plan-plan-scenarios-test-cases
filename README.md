@@ -95,7 +95,7 @@ _<<Punkty, które z góry określają kiedy nasze testy zostaną ukończone pomy
 
 **5. KRYTERIA WEJŚCIA / WYJŚCIA**
 
-       **1. Kryteria wejścia:**
+**1. Kryteria wejścia:**
        
 •	Zakończona jest faza implementacji wyszukiwarki.
 
@@ -107,7 +107,7 @@ _<<Punkty, które z góry określają kiedy nasze testy zostaną ukończone pomy
 
 •	Dostęp do działającej i skonfigurowanej maszyny wirtualnej
 
-       **2. Kryteria wyjścia:**
+**2. Kryteria wyjścia:**
        
 •	Wszystkie przypadki testowe zostały zakończone pomyślnie
 
