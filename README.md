@@ -181,31 +181,31 @@ o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia
 
 **1.	Przypadek testowy: Wyszukiwanie lokalizacji**
    
-**Kroki testowe:**
+Kroki testowe:
 
 1.	Otwórz stronę główną wyszukiwarki booking.com.
 2.	Wprowadź miejsce docelowe w polu wyszukiwania.
 3.	Wybierz odpowiednią lokalizację z listy sugerowanych wyników.
 4.	Kliknij przycisk "Szukaj".
    
-**Oczekiwany rezultat: **
+Oczekiwany rezultat:
 Wyświetlenie wyników wyszukiwania zawierających hotele i obiekty noclegowe w wybranej lokalizacji.
 
 **2.	Przypadek testowy: Filtrowanie wyników wyszukiwania**
 
-**Kroki testowe: **
+Kroki testowe:
 
 0.	Wykonaj wyszukiwanie dla określonej lokalizacji.
 1.	Zastosuj filtr według wybranej kategorii, ceny, oceny lub innego kryterium.
 2.	Przejrzyj wyniki wyszukiwania po zastosowaniu filtrów.
    
-**Oczekiwany rezultat: **
+Oczekiwany rezultat:
 
 Wyświetlenie tylko tych wyników, które spełniają wybrane kryteria filtrów.
 
 **4.	Przypadek testowy: Rezerwacja pokoju**
 
-**Kroki testowe: **
+Kroki testowe:
 
 0.	Wykonaj wyszukiwanie dla określonej lokalizacji i daty pobytu.
 1.	Wybierz konkretny obiekt noclegowy z wyników wyszukiwania.
@@ -213,33 +213,33 @@ Wyświetlenie tylko tych wyników, które spełniają wybrane kryteria filtrów.
 3.	Przejdź do procesu rezerwacji i wprowadź dane osobowe i płatności.
 4.	Potwierdź rezerwację.
    
-**Oczekiwany rezultat: **
+Oczekiwany rezultat:
 
 Potwierdzenie rezerwacji z wyświetleniem szczegółów dotyczących daty pobytu, ceny, danych kontaktowych obiektu noclegowego itp.
 
 **4.	Przypadek testowy: Zarządzanie rezerwacjami**
 
-**Kroki testowe: **
+Kroki testowe:
 
 0.	Zaloguj się na swoje konto w wyszukiwarce booking.com.
 1.	Przejdź do sekcji zarządzania rezerwacjami.
 2.	Wybierz konkretną rezerwację do przeglądu lub modyfikacji.
 3.	Sprawdź, czy można przeglądać szczegóły rezerwacji, dokonać zmian (jeśli dozwolone) lub anulować rezerwację.
    
-**Oczekiwany rezultat: **
+Oczekiwany rezultat:
 
 Wyświetlanie dokładnych informacji dotyczących rezerwacji oraz możliwość modyfikacji lub anulowania rezerwacji (jeśli to możliwe).
 
 **5.	Przypadek testowy: Oceny i opinie**
 
-**Kroki testowe: **
+Kroki testowe:
 
 0.	Znajdź zarezerwowany obiekt noclegowy.
 1.	Sprawdź, czy można wystawić ocenę i opinię na temat tego obiektu.
 2.	Wystaw ocenę i opinię dla danego obiektu.
 3.	Sprawdź, czy oceny i opinie są wyświetlane w odpowiednich miejscach i czy można przeglądać oceny innych użytkowników.
    
-**Oczekiwany rezultat: **
+Oczekiwany rezultat:
 
 Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświetlanie ocen i opinii innych użytkowników.
  
