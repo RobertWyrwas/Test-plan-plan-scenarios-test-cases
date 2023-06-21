@@ -78,12 +78,13 @@ _<<Punkty, które z góry określają kiedy nasze testy zostaną ukończone pomy
 **6. LISTA WYMAGAŃ FUNKCJONALNOŚCI DO PRZETESTOWANIA**
 
 Załączenie wszystkich dokumentacji, user stories, scenariuszy itp.
-Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcjonalności lub przypadków użycia, które będą poddane testom np:
+_Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcjonalności lub przypadków użycia, które będą poddane testom np:_
 •	    Nazwa funkcjonalności: Wymienienie nazwy lub opisu konkretnej funkcjonalności, która będzie testowana np. "Funkcjonalność: Logowanie użytkownika/Wyszukiwanie produktu itp." Wymagania funkcjonalne: Weryfikacja poprawności danych logowania, obsługa różnych typów kont użytkowników (np. administrator, użytkownik zwykły), oczekiwane zachowanie po niepoprawnym logowaniu.)
  
 •	    Opis funkcjonalności: Szczegółowy opis, co dana funkcjonalność ma realizować i jakie oczekiwane rezultaty powinny być osiągnięte np. "Opis: Umożliwia użytkownikowi zalogowanie się do systemu przy użyciu unikalnych danych uwierzytelniających./Umożliwia użytkownikowi wyszukanie pożądanego produktu"
  
 •	    Wymagania funkcjonalne: Wymienienie konkretnych wymagań związanych z funkcjonalnością, które zostaną poddane testom. Mogą to być wymagania dotyczące   interakcji z użytkownikiem, zachowania systemu w różnych scenariuszach, przetwarzania danych, zgodności z regulacjami itp.
+
 Przykładowe wymagania funkcjonalne dla wyszukiwarki booking.com mogą obejmować:
 •	Wyszukiwanie lokalizacji:
 o	Umożliwienie użytkownikowi wprowadzenia miejsca docelowego (miasta, regionu, kraju) w formularzu wyszukiwania.
