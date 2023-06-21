@@ -243,7 +243,7 @@ Oczekiwany rezultat:
 
 Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświetlanie ocen i opinii innych użytkowników.
  
-•	    Priorytetyzacja: Określenie priorytetów dla poszczególnych funkcjonalności w kontekście testowania. Może to obejmować wysoki priorytet dla krytycznych funkcjonalności, które mają duże znaczenie dla systemu lub niski priorytet dla funkcjonalności mniej istotnych.
+**Priorytetyzacja:** Określenie priorytetów dla poszczególnych funkcjonalności w kontekście testowania. Może to obejmować wysoki priorytet dla krytycznych funkcjonalności, które mają duże znaczenie dla systemu lub niski priorytet dla funkcjonalności mniej istotnych.
 
  
 **7. ŚRODOWISKO TESTOWE**
