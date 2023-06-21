@@ -128,7 +128,7 @@ _Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcj
 
 Przykładowe wymagania funkcjonalne dla wyszukiwarki booking.com mogą obejmować:
 
-**•	Wyszukiwanie lokalizacji:**
+**Wyszukiwanie lokalizacji:**
 
 o	Umożliwienie użytkownikowi wprowadzenia miejsca docelowego (miasta, regionu, kraju) w formularzu wyszukiwania.
 
@@ -144,7 +144,7 @@ o	Wyświetlanie informacji o każdym obiekcie, takich jak nazwa, lokalizacja, oc
 
 o	Wyświetlanie cen i dostępnych ofert dla różnych dat pobytu.
 
-**•	Rezerwacja:**
+**Rezerwacja:**
 
 o	Umożliwienie użytkownikowi wyboru preferowanej daty zameldowania i wymeldowania.
 
@@ -152,7 +152,7 @@ o	Zapewnienie możliwości wyboru preferowanej liczby gości i rodzaju pokoju.
 
 o	Przejście do procesu rezerwacji, w tym wprowadzenie danych osobowych, danych płatności itp.
 
-•	Zarządzanie rezerwacjami:
+**Zarządzanie rezerwacjami:**
 
 o	Udostępnienie użytkownikowi panelu zarządzania rezerwacjami, gdzie można przeglądać, modyfikować lub anulować dokonane rezerwacje.
 
@@ -160,25 +160,25 @@ o	Wysyłanie potwierdzeń rezerwacji na adres e-mail użytkownika.
 
 o	Wyświetlanie historii rezerwacji i dostępnych informacji kontaktowych do hoteli.
 
-**•	Oceny i opinie:**
+**Oceny i opinie:**
 
 o	Pozwolenie użytkownikom na wystawianie ocen i opinii na temat zarezerwowanych obiektów.
 
 o	Wyświetlanie ocen i opinii innych użytkowników, aby pomóc w podejmowaniu decyzji rezerwacyjnych.
 
-•	Obsługa wielu języków i walut:
+**Obsługa wielu języków i walut:**
 
 o	Zapewnienie możliwości korzystania z wyszukiwarki w różnych językach.
 
 o	Konwersja cen na różne waluty zgodnie z preferencjami użytkownika.
 
-•	Intuicyjny interfejs użytkownika:
+**Intuicyjny interfejs użytkownika:**
 
 o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia łatwe wyszukiwanie, filtrowanie i rezerwację.
  
 •	    Przypadki testowe: Określenie przypadków testowych lub scenariuszy, które zostaną użyte do przetestowania danej funkcjonalności. Mogą to być opisy kroków testowych, oczekiwanych rezultatów i danych testowych, które będą wykorzystane:
 
-1.	Przypadek testowy: Wyszukiwanie lokalizacji
+**1.	Przypadek testowy: Wyszukiwanie lokalizacji**
    
 **o	Kroki testowe:**
 
