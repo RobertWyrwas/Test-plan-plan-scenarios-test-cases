@@ -368,25 +368,37 @@ Przykładowe zagrożenia:
 
 1.	Anna Nowak:
 o	Przeprowadzenie testów funkcjonalnych: weryfikacja funkcjonalności w oparciu o user story
+
 o	Testowanie funkcji rezerwacji i potwierdzenia
-2.	Michał Kowalski:
-o	Przeprowadzenie testów jednostkowych: 
-	Sprawdzanie, czy funkcje lub metody zwracają oczekiwane wartości w zależności od różnych przypadków testowych
-	Testowanie funkcji lub modułów z wykorzystaniem danych testowych na granicach lub w przypadkach skrajnych
-3.	Robert Wyrwas:
-o	Przeprowadzenie testów wydajnościowych: 
-	Weryfikacja średniego czasu odpowiedzi
-	Weryfikacja maksymalnej ilości requestów przy jakiej wyszukiwarka działa stabilnie
-4.	Piotr Jankowski:
+
+3.	Michał Kowalski:
+Przeprowadzenie testów jednostkowych: 
+o Sprawdzanie, czy funkcje lub metody zwracają oczekiwane wartości w zależności od różnych przypadków testowych
+
+o Testowanie funkcji lub modułów z wykorzystaniem danych testowych na granicach lub w przypadkach skrajnych
+
+4.	Robert Wyrwas:
+Przeprowadzenie testów wydajnościowych: 
+o Weryfikacja średniego czasu odpowiedzi
+
+o Weryfikacja maksymalnej ilości requestów przy jakiej wyszukiwarka działa stabilnie
+
+6.	Piotr Jankowski:
 o	Przeprowadzenie testów integracyjnych: 
-	Weryfikacja poprawnego przekazywania danych między komponentami
-	Testowanie integracji zewnętrznych usług (np. płatności, mapy)
-5.	Magdalena Woźniak:
-o	Przeprowadzenie testów użyteczności 
-	Ocena łatwości nawigacji po stronie i odnajdywania informacji
-	Sprawdzanie responsywności strony na różnych urządzeniach i przeglądarkach
-6.	Tomasz Kaczmarek:
-o	Przeprowadzenie testów dostępności i bezpieczeństwa: 
-	Weryfikacja zgodności strony z wytycznymi dostępności
-	Przeprowadzenie testów penetracyjnych w celu wykrycia potencjalnych luk w zabezpieczeniach
+o Weryfikacja poprawnego przekazywania danych między komponentami
+
+o Testowanie integracji zewnętrznych usług (np. płatności, mapy)
+
+8.	Magdalena Woźniak:
+Przeprowadzenie testów użyteczności 
+o Ocena łatwości nawigacji po stronie i odnajdywania informacji
+
+o Sprawdzanie responsywności strony na różnych urządzeniach i przeglądarkach
+
+10.	Tomasz Kaczmarek:
+o	Przeprowadzenie testów dostępności i bezpieczeństwa:
+
+o Weryfikacja zgodności strony z wytycznymi dostępności
+
+o Przeprowadzenie testów penetracyjnych w celu wykrycia potencjalnych luk w zabezpieczeniach
 
