@@ -252,7 +252,11 @@ Możliwość wystawienia oceny i opinii dla zarezerwowanego obiektu oraz wyświe
 
 •	System Windows 10 Home 64 bit
 
-•	Przeglądarki biorące udział w testach: Firefox 114.0.1, Edge 114.0.1823.51, Chrome 114.0.5735.134 , Opera 99.0.4788.77
+•	Przeglądarki biorące udział w testach: 
+Firefox 114.0.1 
+Edge 114.0.1823.51
+Chrome 114.0.5735.134
+Opera 99.0.4788.77
  
 _<<W innych przypadkach możemy zawrzeć informacje takie jak:
 Wersje oprogramowania, które będą wykorzystywane w środowisku testowym, serwery baz danych czy też frameworki testowe. Wskazanie konkretnych wersji jest istotne dla zapewnienia powtarzalności testów.
