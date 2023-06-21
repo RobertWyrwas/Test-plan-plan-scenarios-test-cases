@@ -389,7 +389,7 @@ o Weryfikacja średniego czasu odpowiedzi
 o Weryfikacja maksymalnej ilości requestów przy jakiej wyszukiwarka działa stabilnie
 
 4.	Piotr Jankowski:
-5.	
+   
 o	Przeprowadzenie testów integracyjnych:
 
 o Weryfikacja poprawnego przekazywania danych między komponentami
