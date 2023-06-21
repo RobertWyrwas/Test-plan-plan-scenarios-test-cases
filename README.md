@@ -375,6 +375,8 @@ Przykładowe zagrożenia:
 
 •	Zgodnie z przyjętym flow przez naszą organizację, taki problem powinien zostać naprawiony przez developera i trafić do retestów.
 
+
+
  
 **13. ROLE I ODPOWIEDZIALNOŚĆ**
 
