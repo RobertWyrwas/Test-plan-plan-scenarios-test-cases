@@ -221,21 +221,32 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 _<< W tym punkcie możemy uwzględnić różne czynniki, które mogą wpływać na proces testowania i jego rezultaty. >>_
 Przykładowe zagrożenia:
 •	    Opóźnienia w dostawie oprogramowania: ryzyko opóźnień w dostarczeniu komponentów oprogramowania, które są wymagane do przeprowadzenia testów.
+
 •	    Niedostępność środowiska testowego: ryzyko braku dostępu do odpowiedniego środowiska testowego, takiego jak serwery, bazy danych, sieci, co może utrudnić przeprowadzenie testów.
+
 •	    Niekompletność lub niejasność wymagań: ryzyko braku jasno zdefiniowanych wymagań, co może prowadzić do trudności w tworzeniu przypadków testowych i ocenie sukcesu testów.
+
 •	    Brak zasobów ludzkich: ryzyko niedostatecznej liczby lub odpowiednich umiejętności członków zespołu testowego, co może wpływać na efektywność testów.
+
 •	    Błędy w dokumentacji: ryzyko obecności błędów, niejasności lub nieaktualnych informacji w dokumentacji projektowej, co może prowadzić do testowania nieodpowiednich funkcjonalności lub prowadzić do niezgodności z oczekiwaniami.
+
 •	    Problemy z integracją: ryzyko trudności w integracji różnych komponentów lub modułów systemu, co może prowadzić do błędów w interakcji między nimi.
+
 •	    Ograniczenia czasowe: ryzyko braku wystarczającego czasu na przeprowadzenie pełnego zakresu testów lub na dokładne badanie problemów znalezionych podczas testowania.
+
 •	    Problemy wydajnościowe: ryzyko wystąpienia problemów wydajnościowych, takich jak spowolnienia lub awarie systemu podczas obciążenia lub w warunkach skrajnych.
+
 •	    Zależności od zewnętrznych dostawców: ryzyko opóźnień lub problemów związanych z dostępnością zewnętrznych usług lub komponentów, które są niezbędne do przeprowadzenia testów.
+
 •	    Brak odpowiedniej dokumentacji: ryzyko braku wystarczającej dokumentacji technicznej lub brak dostępu do niej, co może utrudnić zrozumienie i testowanie systemu.
 
  
 **12. ZARZĄDZANIE INCYDENTAMI I BŁĘDAMI**
 
 •	W procesie testowym każdy wykryty błąd powinien być odpowiednio zaraportowany do systemu Jira.
+
 •	Uwzględnienie priorytetu błędu, osoby przypisanej (developera), komponentu którego dotyczy problem.
+
 •	Zgodnie z przyjętym flow przez naszą organizację, taki problem powinien zostać naprawiony przez developera i trafić do retestów.
 
  
