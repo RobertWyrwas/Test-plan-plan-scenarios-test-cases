@@ -16,7 +16,7 @@ Dobrze, aby wstęp zawierał również ograniczenia zasobowe i budżetowe.>>_
 
 **2. ZAKRES TESTÓW**
 
-Realizowane typy testów:
+**Realizowane typy testów:**
 
 •	Jednostkowe
 
@@ -32,7 +32,7 @@ Realizowane typy testów:
 
 •	Bezpieczeństwa
 
-Typy testów, które nie będą przeprowadzane:
+**Typy testów, które nie będą przeprowadzane:**
 
 •	Testy automatyczne - ze względu na brak budżetu
 
