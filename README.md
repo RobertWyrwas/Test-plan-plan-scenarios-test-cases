@@ -1,4 +1,4 @@
-_# TestLink_Test-Plan-Management
+**TestLink TEST PLAN MANAGEMENT** 
 
 Mój przykładowy Plan Testów dla portalu **Booking.com** (z własnym komentarzem). 
 
