@@ -300,7 +300,7 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 2.	Testowanie integracji zewnętrznych usług (np. płatności, mapy): 3h
 3.	Weryfikacja poprawnej komunikacji między serwerem a bazą danych - 2h
    
-      **5.Przeprowadzenie testów użyteczności: **
+    ** 5.Przeprowadzenie testów użyteczności:**
   	
 1.	Ocena łatwości nawigacji po stronie i odnajdywania informacji - 2h
 2.	Testowanie czytelności i zrozumiałości treści oraz etykiet formularzy - 3h
