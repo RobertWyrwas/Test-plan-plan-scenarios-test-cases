@@ -329,9 +329,13 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 **10. LISTA NARZĘDZI**
 
 •	Jmeter
+
 •	TestLink
+
 •	Postman
+
 •	Jira
+
 •	Browserstack
  
 **11. RYZYKA I PROBLEMY**
