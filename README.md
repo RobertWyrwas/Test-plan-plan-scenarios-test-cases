@@ -17,6 +17,7 @@ Dobrze, aby wstęp zawierał również ograniczenia zasobowe i budżetowe.>>_
 **2. ZAKRES TESTÓW**
 
 Realizowane typy testów:
+
 •	Jednostkowe
 
 •	Integracyjne
