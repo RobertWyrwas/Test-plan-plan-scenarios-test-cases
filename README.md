@@ -270,7 +270,7 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
  
 **8. HARMONOGRAM TESTÓW**
  
-1. Przeprowadzenie testów jednostkowych:
+**1. Przeprowadzenie testów jednostkowych:**
       
 •	Sprawdzanie, czy funkcje lub metody zwracają oczekiwane wartości w zależności od różnych przypadków testowych - 2h
 
@@ -278,7 +278,7 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 
 •	Weryfikacja poprawności interakcji między różnymi jednostkami kodu - 3h
 
-2. Przeprowadzenie testów funkcjonalnych:
+**2. Przeprowadzenie testów funkcjonalnych:**
       
 •	weryfikacja funkcjonalności w oparciu o user story - 3h
 
@@ -292,25 +292,25 @@ Serwery i usługi zewnętrzne: jeżeli aplikacja korzysta z zewnętrznych usług
 
 •	Testowanie funkcji rezerwacji i potwierdzenia - 2h
 
-3. Przeprowadzenie testów wydajnościowych:
+**3. Przeprowadzenie testów wydajnościowych:**
      
 •	weryfikacja średniego czasu odpowiedzi - 1h
 
 •	weryfikacja maksymalnej ilości requestów przy jakiej wyszukiwarka działa stabilnie -1h
 
-4.Przeprowadzenie testów integracyjnych:
+**4.Przeprowadzenie testów integracyjnych:**
      
 1.	Weryfikacja poprawnego przekazywania danych między komponentami: 2h
 2.	Testowanie integracji zewnętrznych usług (np. płatności, mapy): 3h
 3.	Weryfikacja poprawnej komunikacji między serwerem a bazą danych - 2h
    
-5.Przeprowadzenie testów użyteczności:**
+**5.Przeprowadzenie testów użyteczności:**
   	
 1.	Ocena łatwości nawigacji po stronie i odnajdywania informacji - 2h
 2.	Testowanie czytelności i zrozumiałości treści oraz etykiet formularzy - 3h
 3.	Sprawdzanie responsywności strony na różnych urządzeniach i przeglądarkach - 2h
    
-6.Przeprowadzenie testów dostępności i bezpieczeństwa:**
+**6.Przeprowadzenie testów dostępności i bezpieczeństwa:**
   	
 1.	Weryfikacja zgodności strony z wytycznymi dostępności WCAG - 3h
 2.	Przeprowadzenie testów penetracyjnych w celu wykrycia potencjalnych luk w zabezpieczeniach - 4h
