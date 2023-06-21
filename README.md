@@ -91,7 +91,7 @@ _<<Punkty, które z góry określają kiedy nasze testy zostaną ukończone pomy
 
 •	Czas odpowiedzi serwera nie przekraczając 700ms
 
-<< Powyższe kryteria to zaledwie kilka przykładami.  Przy tworzeniu kryteriów, te zawsze powinny być dostosowane do konkretnej sytuacji i wymagań danego projektu>>
+<< Powyższe kryteria to zaledwie kilka przykładami. Przy tworzeniu kryteriów, te zawsze powinny być dostosowane do konkretnej sytuacji i wymagań danego projektu.>>
 
 
 **5. KRYTERIA WEJŚCIA / WYJŚCIA**
@@ -119,7 +119,7 @@ _<<Punkty, które z góry określają kiedy nasze testy zostaną ukończone pomy
 
 Załączenie wszystkich dokumentacji, user stories, scenariuszy itp.
 
-_Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcjonalności lub przypadków użycia, które będą poddane testom np:_
+<<_Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcjonalności lub przypadków użycia, które będą poddane testom np:_>>
 
 •	    Nazwa funkcjonalności: Wymienienie nazwy lub opisu konkretnej funkcjonalności, która będzie testowana np. "Funkcjonalność: Logowanie użytkownika/Wyszukiwanie produktu itp." Wymagania funkcjonalne: Weryfikacja poprawności danych logowania, obsługa różnych typów kont użytkowników (np. administrator, użytkownik zwykły), oczekiwane zachowanie po niepoprawnym logowaniu.)
  
@@ -127,7 +127,7 @@ _Przykładowa lista powinna zawierać szczegółowe opisy poszczególnych funkcj
  
 •	    Wymagania funkcjonalne: Wymienienie konkretnych wymagań związanych z funkcjonalnością, które zostaną poddane testom. Mogą to być wymagania dotyczące   interakcji z użytkownikiem, zachowania systemu w różnych scenariuszach, przetwarzania danych, zgodności z regulacjami itp.
 
-Przykładowe wymagania funkcjonalne dla wyszukiwarki booking.com mogą obejmować:
+_<<Przykładowe wymagania funkcjonalne dla wyszukiwarki booking.com mogą obejmować:>>_
 
 **Wyszukiwanie lokalizacji:**
 
@@ -177,7 +177,7 @@ o	Konwersja cen na różne waluty zgodnie z preferencjami użytkownika.
 
 o	Zapewnienie prostego i intuicyjnego interfejsu użytkownika, który umożliwia łatwe wyszukiwanie, filtrowanie i rezerwację.
  
-•	    Przypadki testowe: Określenie przypadków testowych lub scenariuszy, które zostaną użyte do przetestowania danej funkcjonalności. Mogą to być opisy kroków testowych, oczekiwanych rezultatów i danych testowych, które będą wykorzystane:
+**Przypadki testowe:** _<<Określenie przypadków testowych lub scenariuszy, które zostaną użyte do przetestowania danej funkcjonalności. Mogą to być opisy kroków testowych, oczekiwanych rezultatów i danych testowych, które będą wykorzystane:>>_
 
 **1.	Przypadek testowy: Wyszukiwanie lokalizacji**
    
