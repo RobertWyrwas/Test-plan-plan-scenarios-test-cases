@@ -367,35 +367,45 @@ Przykładowe zagrożenia:
 **13. ROLE I ODPOWIEDZIALNOŚĆ**
 
 1.	Anna Nowak:
+   
 o	Przeprowadzenie testów funkcjonalnych: weryfikacja funkcjonalności w oparciu o user story
 
 o	Testowanie funkcji rezerwacji i potwierdzenia
 
-3.	Michał Kowalski:
+2.	Michał Kowalski:
+   
 Przeprowadzenie testów jednostkowych: 
+
 o Sprawdzanie, czy funkcje lub metody zwracają oczekiwane wartości w zależności od różnych przypadków testowych
 
 o Testowanie funkcji lub modułów z wykorzystaniem danych testowych na granicach lub w przypadkach skrajnych
 
-4.	Robert Wyrwas:
+3.	Robert Wyrwas:
+   
 Przeprowadzenie testów wydajnościowych: 
+
 o Weryfikacja średniego czasu odpowiedzi
 
 o Weryfikacja maksymalnej ilości requestów przy jakiej wyszukiwarka działa stabilnie
 
-6.	Piotr Jankowski:
-o	Przeprowadzenie testów integracyjnych: 
+4.	Piotr Jankowski:
+5.	
+o	Przeprowadzenie testów integracyjnych:
+
 o Weryfikacja poprawnego przekazywania danych między komponentami
 
 o Testowanie integracji zewnętrznych usług (np. płatności, mapy)
 
-8.	Magdalena Woźniak:
-Przeprowadzenie testów użyteczności 
+5.	Magdalena Woźniak:
+   
+Przeprowadzenie testów użyteczności:
+
 o Ocena łatwości nawigacji po stronie i odnajdywania informacji
 
 o Sprawdzanie responsywności strony na różnych urządzeniach i przeglądarkach
 
-10.	Tomasz Kaczmarek:
+6.	Tomasz Kaczmarek:
+   
 o	Przeprowadzenie testów dostępności i bezpieczeństwa:
 
 o Weryfikacja zgodności strony z wytycznymi dostępności
