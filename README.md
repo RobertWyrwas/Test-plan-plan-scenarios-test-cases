@@ -195,9 +195,9 @@ Wyświetlenie wyników wyszukiwania zawierających hotele i obiekty noclegowe w 
 
 Kroki testowe:
 
-0.	Wykonaj wyszukiwanie dla określonej lokalizacji.
-1.	Zastosuj filtr według wybranej kategorii, ceny, oceny lub innego kryterium.
-2.	Przejrzyj wyniki wyszukiwania po zastosowaniu filtrów.
+1.	Wykonaj wyszukiwanie dla określonej lokalizacji.
+2.	Zastosuj filtr według wybranej kategorii, ceny, oceny lub innego kryterium.
+3.	Przejrzyj wyniki wyszukiwania po zastosowaniu filtrów.
    
 Oczekiwany rezultat:
 
